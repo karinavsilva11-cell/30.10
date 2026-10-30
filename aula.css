@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+    margin: 20px;
+    background-color: rgb(255, 175, 206);
+}
+
+*{
+border: 2px solid rgb(247, 97, 142);
+border-radius: 2px;
+border-color: rgb(240, 70, 155);
+}
